@@ -12,7 +12,7 @@ res.writeHead(200, {'Content-Type': 'text/html'});
 
 // Writing static text
 
-res.end('Hello SATU World');
+res.end('Hello SATU World 2');
 
 // Server listening on port number 4300
 
